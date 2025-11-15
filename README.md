@@ -1,4 +1,4 @@
-# server
+# Platform Server
 
 A new Flutter project.
 
